@@ -69,7 +69,9 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aitechwithsundhar-cmd&theme=tokyo-night&hide_border=true&area=true)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/aitechwithsundhar-cmd/aitechwithsundhar-cmd/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
