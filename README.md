@@ -17,6 +17,25 @@
 
 ---
 
+## 🔧 What I Do
+
+* 🛠️ Build and manage cloud infrastructure on **AWS** and **Azure** using **Terraform**
+* 🚀 Design CI/CD pipelines using **Jenkins** and **GitHub Actions** to automate deployments
+* ⚙️ Automate infrastructure using **Ansible** playbooks and roles for consistent deployments
+* 🐳 Containerize applications with **Docker** and orchestrate with **Kubernetes**
+* 💻 Write **Shell scripts** and **Python** for automation and system administration
+* 🗄️ Manage databases including **MySQL**, **MongoDB**, and **Redis** in production
+* 🌐 Configure **Nginx** reverse proxy and **RabbitMQ** message broker
+* 📦 Create cloud-ready machine images using **Packer** on AWS
+
+## 💼 Career Snapshot
+
+* 🏢 **Kết nối TM DV & DL Link** — *Software Engineer (DevOps)*
+  Automating infrastructure with Ansible, Terraform, Docker and Kubernetes. Managing Linux servers, databases and CI/CD pipelines in Vũng Tàu, Vietnam.
+
+* 🏫 **STEM.AI Center** — *STEM & AI Robotics Instructor*
+  Taught AI and Robotics to 50+ children aged 6-14 across 6 complete AI courses using UBTech platform. Built autonomous robots, wind turbines, and sensor-based models with students.
+
 ## 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,14 +86,14 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aitechwithsundhar-cmd&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/aitechwithsundhar-cmd)
 
-## 🐍 Contribution Snake
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aitechwithsundhar-cmd&theme=cobalt2&hide_border=true)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/aitechwithsundhar-cmd/aitechwithsundhar-cmd/blob/output/github-contribution-grid-snake-dark.svg)
-
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aitechwithsundhar-cmd&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/aitechwithsundhar-cmd)
 
 </div>
+
 
 ---
 
