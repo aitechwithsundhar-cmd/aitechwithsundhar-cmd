@@ -96,6 +96,11 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/aitechwithsundhar-cmd/aitechwithsundhar-cmd/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 ## 📫 Connect with me
 
