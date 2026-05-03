@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:232F3E&height=250&section=header&text=Sundhar%20Ajmera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Shell%20%7C%20Ansible%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes&descAlignY=60&descSize=22&descColor=90CAF9)
+
 # Hi, I'm Sundhar Ajmera 👋
 
 ⚙️ **DevOps Engineer** | Shell · Ansible · Terraform · Linux · AWS  
@@ -64,6 +66,7 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundhar-ajmera-921687389)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:0078D4,100:0D1117&height=120&section=footer)
 <!--
 **aitechwithsundhar-cmd/aitechwithsundhar-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
