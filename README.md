@@ -41,7 +41,7 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 ## 📊 GitHub Stats
 
-![Sundhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitechwithsundhar-cmd&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=dark)](https://git.io/streak-stats)
 
 ---
 
