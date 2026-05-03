@@ -1,6 +1,14 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:232F3E&height=250&section=header&text=Sundhar%20Ajmera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Shell%20%7C%20Ansible%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes&descAlignY=60&descSize=22&descColor=90CAF9)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1A237E,100:0078D4&height=300&section=header&text=Sundhar%20Ajmera&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=🚀%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20AI%20Educator&descAlignY=65&descSize=24&descColor=64B5F6&stroke=0078D4&strokeWidth=2)
 
-# Hi, I'm Sundhar Ajmera 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+%7C+2%2B+Years+Experience;Shell+%7C+Ansible+%7C+Terraform+%7C+Docker;Kubernetes+%7C+AWS+%7C+Azure+%7C+Jenkins;STEM+%26+AI+Robotics+Instructor;Actively+Looking+for+DevOps+Roles+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ⚙️ **DevOps Engineer** | Shell · Ansible · Terraform · Linux · AWS  
 🤖 **STEM & AI Robotics Instructor** — 2+ years teaching AI to kids  
@@ -31,7 +39,6 @@
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
 ## 💼 Experience
@@ -58,26 +65,24 @@ Taught hands-on AI & Robotics to kids aged 6–14
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitechwithsundhar-cmd&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundhar-ajmera-921687389)
+<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:0078D4,100:0D1117&height=120&section=footer)
-<!--
-**aitechwithsundhar-cmd/aitechwithsundhar-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundhar-ajmera-921687389)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitechwithsundhar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aitechwithsundhar-cmd)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:1A237E,100:0D1117&height=120&section=footer)
