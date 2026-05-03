@@ -68,7 +68,8 @@ Taught hands-on AI & Robotics to kids aged 6–14
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aitechwithsundhar-cmd&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitechwithsundhar-cmd&theme=tokyonight&hide_border=true&layout=donut)](https://github.com/aitechwithsundhar-cmd)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aitechwithsundhar-cmd&theme=tokyo-night&hide_border=true&area=true)
 
 
 </div>
