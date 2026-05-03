@@ -87,5 +87,7 @@ Taught hands-on AI & Robotics to kids aged 6–14
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aitechwithsundhar-cmd)
 
 </div>
+## 📄 Resume
+[![Download Resume](https://img.shields.io/badge/Download_Resume-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/aitechwithsundhar-cmd/resume/raw/main/Sundhar_Ajmera_ATS_Resume.pdf)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:1A237E,100:0D1117&height=120&section=footer)
